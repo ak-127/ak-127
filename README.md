@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-127&label=Profile%20views&color=0e75b6&style=flat" alt="ak-127" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak-127" alt="ak-127" /></a> </p>
-
 
 - 👨‍💻 All of my projects are available at [https://akashkamble.in](https://akashkamble.in)
 
-- 💬 Ask me about **Linux, Networking**
+- 💬 Ask me about **Linux, Networking, and About DevOps Concepts**
 
 - 📫 How to reach me **contact@akashkamble.in**
 
 - 📄 Know about my experiences [https://akashkamble.in](https://akashkamble.in)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: contact@akashkamble.in</h3>
 <p align="left">
 </p>
 
