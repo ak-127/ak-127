@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Akash+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Architect;Linux+%7C+Kubernetes+%7C+CI%2FCD;Building+Scalable+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Akash+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Architect;Linux+%7C+Kubernetes+%7C+CI%2FCD;Building+Scalable+Infrastructure" alt="Typing SVG" />
 
 <br/>
 
@@ -22,8 +22,8 @@ focus: [Cloud Infrastructure, CI/CD Pipelines, Container Orchestration]
 expertise: [Linux, Networking, Kubernetes, DevOps Concepts]
 website: https://akashkamble.in
 contact: contact@akashkamble.in
-currently_learning: [GitOps, Platform Engineering, eBPF]
-open_to: [Collaborations, Open Source, DevOps Consulting]
+currently_learning: [GitOps, Platform Engineering, SRE]
+open_to: [Collaborations, Open Source, DevOps ]
 ```
 
 ---
@@ -34,7 +34,7 @@ open_to: [Collaborations, Open Source, DevOps Consulting]
 <p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=&logoColor=white"/>
 </p>
 
 ### 🐳 Containers & Orchestration
@@ -87,12 +87,6 @@ open_to: [Collaborations, Open Source, DevOps Consulting]
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ak-127&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-127&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-127&theme=tokyonight&hide_border=true&background=0d1117" />
@@ -104,13 +98,7 @@ open_to: [Collaborations, Open Source, DevOps Consulting]
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ak-127&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
----
 
 ## 🤝 Connect With Me
 
