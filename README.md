@@ -56,6 +56,7 @@ open_to: [Collaborations, Open Source, DevOps ]
 <p>
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white"/>
 </p>
 
 ### 🛠️ Languages & Scripting
